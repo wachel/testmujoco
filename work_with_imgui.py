@@ -1,16 +1,9 @@
 import sys
-sys.path.append(__file__ + "/../")
 import mujoco as mj
 import glfw
-#from ui_renderer import UiRenderer
-from imgui.integrations.opengl import FixedPipelineRenderer
-from imgui.integrations.glfw import GlfwRenderer
-from MujocoRenderer import MujocoRenderer
 from glfw_fp import GlfwFixedPipelineRenderer
-from imgui import core
 import imgui
 import OpenGL.GL as gl
-import glhelper
 
 
 def main():

@@ -1,0 +1,1 @@
+This python code show how mujoco python bindings work with imgui
