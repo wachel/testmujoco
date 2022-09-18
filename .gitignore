@@ -1,0 +1,23 @@
+/.DS_Store
+/.ipynb_checkpoints
+/.vscode
+/1111.stl
+/MujocoRenderer.py
+/__pycache__
+/api.ipynb
+/api.md
+/glfw_fp.py
+/glhelper.py
+/imgui.ini
+/imgui_
+/introspect
+/mujoco-main
+/test01.py
+/test_dear_pygui.py
+/testglfw copy.py
+/testglfw.py
+/testimgui.py
+/testimgui2.py
+/testmjviewer.py
+/testmujoco.code-workspace
+/testwindow.py
